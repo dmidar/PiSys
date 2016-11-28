@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15.031" height="22" viewBox="0 0 15.031 22">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1e3844;
+        fill-rule: evenodd;
+        opacity: 0.8;
+      }
+    </style>
+  </defs>
+  <path id="Контур" class="cls-1" d="M207,569.5l-13.031,10.984L207,591.5l2-2-10.8-9,10.8-9Z" transform="translate(-193.969 -569.5)"/>
+</svg>

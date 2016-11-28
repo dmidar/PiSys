@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1_2_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 160 160" style="enable-background:new 0 0 160 160;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#101112;}
+	.st1{fill:#085D5C;}
+	.st2{fill:#00ACAA;}
+</style>
+<g>
+	<g id="Эллипс">
+		<g>
+			<circle class="st0" cx="80" cy="80" r="80"/>
+		</g>
+	</g>
+	<path class="st1" d="M80,11c38,0,69,31,69,69s-31,69-69,69s-69-31-69-69S42,11,80,11 M80,10c-38.7,0-70,31.3-70,70s31.3,70,70,70
+		s70-31.3,70-70S118.7,10,80,10L80,10z"/>
+	<g id="Совмещенный_контур">
+		<g>
+			<path class="st2" d="M111,85V40H56v45h24v5h-2v2h10v-2h-2v-5H111z M102,81h-1v-1h1V81z M105,81h-1v-1h1V81z M108,81h-1v-1h1V81z
+				 M84,82h-2v-2h2V82z M59,77V43h49v34H59z"/>
+		</g>
+	</g>
+	<g>
+		<rect x="41" y="68.9" class="st0" width="30" height="42"/>
+		<path class="st2" d="M70,69.9v40H42v-40H70 M71,68.9H41v42h30V68.9L71,68.9z"/>
+	</g>
+	<g>
+		<rect x="57" y="103" class="st0" width="23" height="14"/>
+		<path class="st2" d="M79,104v12H58v-12H79 M80,103H57v14h23V103L80,103z"/>
+	</g>
+	<g>
+		<rect x="78" y="66" class="st2" width="13" height="1"/>
+		<circle class="st2" cx="80.5" cy="61.5" r="2.5"/>
+		<circle class="st2" cx="86.5" cy="61.5" r="1.5"/>
+		<circle class="st2" cx="90.5" cy="61.5" r="0.5"/>
+	</g>
+	<g>
+		<rect x="46" y="81" class="st2" width="13" height="1"/>
+		<circle class="st2" cx="48.5" cy="76.5" r="2.5"/>
+		<circle class="st2" cx="54.5" cy="76.5" r="1.5"/>
+		<circle class="st2" cx="58.5" cy="76.5" r="0.5"/>
+	</g>
+	<g>
+		<rect x="62" y="112.9" class="st2" width="13" height="1"/>
+		<circle class="st2" cx="64.5" cy="108.4" r="2.5"/>
+		<circle class="st2" cx="70.5" cy="108.4" r="1.5"/>
+		<circle class="st2" cx="74.5" cy="108.4" r="0.5"/>
+	</g>
+	<rect x="46" y="89" class="st2" width="20" height="1"/>
+	<rect x="46" y="92" class="st2" width="20" height="1"/>
+	<rect x="46" y="95" class="st2" width="20" height="1"/>
+	<rect x="46" y="98" class="st2" width="20" height="1"/>
+	<rect x="46" y="101" class="st2" width="20" height="1"/>
+	<g>
+		<path class="st2" d="M113.9,113h-11c-1.7,0-3-1.3-3-3V95c0-1.7,1.3-3,3-3h11c1.7,0,3,1.3,3,3v15C116.9,111.6,115.6,113,113.9,113z
+			"/>
+	</g>
+	<path class="st0" d="M114,98h-11c-1.1,0-2-0.9-2-2v-1c0-1.1,0.9-2,2-2h11c1.1,0,2,0.9,2,2v1C116,97.1,115.1,98,114,98z"/>
+	<g>
+		<rect x="102" y="107.9" class="st0" width="13" height="1"/>
+		<circle class="st0" cx="104.5" cy="103.4" r="2.5"/>
+		<circle class="st0" cx="110.5" cy="103.4" r="1.5"/>
+		<circle class="st0" cx="114.5" cy="103.4" r="0.5"/>
+	</g>
+	<path class="st2" d="M120,98.9v7h-2v-7H120 M120,96.9h-2c-1.1,0-2,0.9-2,2v7c0,1.1,0.9,2,2,2h2c1.1,0,2-0.9,2-2v-7
+		C122,97.8,121.1,96.9,120,96.9L120,96.9z"/>
+</g>
+</svg>

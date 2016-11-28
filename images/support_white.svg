@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1_2_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 160 160" style="enable-background:new 0 0 160 160;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#00ACAA;}
+	.st1{fill:#FFFFFF;}
+</style>
+<g>
+	<g id="Эллипс">
+		<g>
+			<circle class="st0" cx="80" cy="80" r="80"/>
+		</g>
+	</g>
+	<g id="Совмещенный_контур">
+		<g>
+			<path class="st1" d="M115,99V54H60v45h24v5h-2v2h10v-2h-2v-5H115z M106,95h-1v-1h1V95z M109,95h-1v-1h1V95z M112,95h-1v-1h1V95z
+				 M88,96h-2v-2h2V96z M63,91V57h49v34H63z"/>
+		</g>
+	</g>
+	<g id="Составная_фигура_2_">
+		<g>
+			<path class="st1" d="M50.9,86v25h15V86H50.9z M58.9,110h-1v-1h1V110z M64.9,108h-13V87h13V108z"/>
+		</g>
+	</g>
+	<rect x="52.4" y="87.4" class="st0" width="12" height="20.1"/>
+	<circle class="st1" cx="75.5" cy="69.5" r="2.5"/>
+	<circle class="st1" cx="85.5" cy="83.5" r="2.5"/>
+	<ellipse transform="matrix(0.7752 -0.6317 0.6317 0.7752 -19.1203 78.265)" class="st1" cx="100.4" cy="66" rx="2.5" ry="2.5"/>
+	<ellipse transform="matrix(0.7752 -0.6317 0.6317 0.7752 -48.9774 59.3554)" class="st1" cx="58.9" cy="98.5" rx="2.5" ry="2.5"/>
+	<polygon class="st1" points="59.4,98.7 58.5,98.3 75.4,68.5 85.5,82.7 100,65.7 100.8,66.3 85.5,84.3 75.5,70.4 	"/>
+	<path class="st1" d="M65.4,108.5h-14v-22h14V108.5z M52.4,107.5h12v-20h-12V107.5z"/>
+	<path class="st1" d="M80,11c38,0,69,31,69,69s-31,69-69,69s-69-31-69-69S42,11,80,11 M80,10c-38.7,0-70,31.3-70,70s31.3,70,70,70
+		s70-31.3,70-70S118.7,10,80,10L80,10z"/>
+</g>
+</svg>
